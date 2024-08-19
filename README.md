@@ -1,5 +1,7 @@
 # Dichotomy
 
+![test](Assets/Resources/Icon.png)
+
 ## Description
 
 Dichotomy is a choice based game that takes place in a little witchy shop in a magical realm. 
