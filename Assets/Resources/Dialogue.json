@@ -1,0 +1,2203 @@
+{
+  "characters": [
+    {
+      "name": "Mushy",
+      "skin": "Mushy",
+      "prompt": [
+        "Hello young witch! Welcome to what is outwardly known as the Talking Shrooms Potions and Charms Magic shop. While this may just look like a simple magic shop, it is indeed not...",
+        "It looks like you've gotten the hang of it. Remember, all of your choices have an impact on the person that you will become. Think carefully about the path you wish to follow.",
+        "",
+        ""
+      ],
+      "promptTwo": [
+        "We are in the Arcane Nexus, otherwise known as the center of all magic! Your father, the current keeper of the worlds fate, has decided to test your decision-making abilities. You have 30 days to demonstrate what kind of keeper you will be. Here's a couple of coins to start with, good luck!",
+        "",
+        "",
+        ""
+      ],
+      "yes": [
+        "That's the spirit!",
+        "Very good.",
+        "",
+        ""
+      ],
+      "no": [
+        "Fine, I'm keeping the coins then!",
+        "Well, I was going to give you coins, but now I've changed my mind.",
+        "",
+        ""
+      ],
+      "place": 0,
+      "secondPrompt": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        5,
+        2,
+        3,
+        4
+      ],
+      "badPoint": [
+        5,
+        2,
+        3,
+        4
+      ],
+      "coins": [
+        100,
+        50
+      ],
+      "coinGiveOrTake": [
+        true,
+        true
+      ],
+
+      "point": [
+        true,
+        true,
+        true,
+        true
+
+      ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 0, 0 ]
+
+
+    },
+    {
+      "name": "Princess Pancake",
+      "skin": "PrincessPancake",
+      "prompt": [
+        "Greetings sweetie! My name is Princess Pancake. I have found myself in a bit of a pickle and I need your help.",
+        "hello sweetie. Sadly, I have been struggling to protect my recipe. Nothing has worked so far, so I'm looking to hide it somewhere safe. Will you hold onto it for me?",
+        "I fear I am in danger! I keep seeing a man everywhere I go, I think he's following me. Please is there anything you can do to keep me safe?",
+        "A spell was put on the recipe for its protection, I didn't know it was a love spell though. However, after he stopped acting so evil, I enjoyed spending time with him."
+      ],
+      "promptTwo": [
+        "Someone is trying to steal my special blueberry pancake recipe. Can you give me a spell to protect it?",
+        "",
+        "",
+        ""
+      ],
+      "yes": [
+        "Thank you I will forever be in your debt",
+        "Thank you, you are truly a kind soul.",
+        "Oh thank you, thank you so much ",
+        ""
+      ],
+      "no": [
+        "I understand, I will look elsewhere for help.",
+        "I understand...",
+        "How can you be so cruel! ",
+        ""
+      ],
+      "place": 0,
+      "secondPrompt": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        10,
+        15,
+        20,
+        0
+      ],
+      "badPoint": [
+        10,
+        15,
+        20,
+        0
+      ],
+      "coins": [
+        15,
+        20,
+        20,
+        0
+      ],
+      "coinGiveOrTake": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "point": [ true, false, true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 2,
+      "ready": true,
+      "GoodChoice": false,
+      "repetitive": false,
+      "specialCharacter": true,
+      "takeEssance": [ true, false, true, false ],
+      "essanceAmount": [ 10, 0, 10, 0 ]
+    },
+    {
+      "name": "Prince Pumpernickel",
+      "skin": "PrincePump",
+      "prompt": [
+        "It seems you have gained a reputation. My name is Prince Pumpernickel. I'm in the market for a thief. There is a certain recipe that I need retrieved for me. Can you do this?",
+        "My network of spies has told me you've retrieved the recipe. I am willing to offer 300 gold pieces for it.",
+        "I hear you are friends with Princess Pancake, if you do not help me, steal her recipe, then I will be forced to take matters into my own hands.",
+        "We have come back to share some news with you. Although I was originally looking to steal a recipe, after reading it I... I've fallen madly in love!"
+
+      ],
+      "promptTwo": [
+        "",
+        "",
+        "",
+        "I think it's time to hang up my evil crown and start a new life with Princess Pancake."
+      ],
+      "yes": [
+        "Excellent. I will pay you handsomely when you deliver.",
+        "Pleasure doing business with you.",
+        "A good choice.",
+        "I'm glad you agree, thanks for the help kid."
+      ],
+      "no": [
+        "I will remember this.",
+        "A change in heart I see.",
+        "You will regret this.",
+        "You're funny, thanks for the help kid."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "goodPoint": [
+        10,
+        20,
+        20,
+        30
+      ],
+      "badPoint": [
+        10,
+        20,
+        20,
+        30
+      ],
+      "coins": [
+        0,
+        300,
+        0,
+        100,
+        0
+      ],
+      "coinGiveOrTake": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "point": [ false, false, false, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 3,
+      "ready": false,
+      "repetitive": false,
+      "specialCharacter": true,
+      "takeEssance": [ false, false, false, false ],
+      "essanceAmount": [ 0, 0, 0, 0 ]
+    },
+    {
+      "name": "Lil' Timmy",
+      "skin": "Timmy",
+      "prompt": [
+        "Hello my name's Timmy, Can I use your toilet? It's a number two...",
+        "I plugged your toilet want me to fix it for you?",
+        "Your shoe is untied",
+        "Do you want to play with me?"
+      ],
+      "yes": [
+        "Thanks!",
+        "Fine",
+        "Ha! Made you look!",
+        "Yay! I'll be at the Pixie Play Patch when you're done!"
+      ],
+      "no": [
+        "We'll see about that...",
+        "Great! Less work for me.",
+        "You're no fun.",
+        "Well I didn't wanna play with you anyway, you girl!"
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        3,
+        2,
+        3,
+        0
+      ],
+      "badPoint": [
+        3,
+        2,
+        3,
+        0
+      ],
+      "coins": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "coinGiveOrTake": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "point": [ true, false, true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 3,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false, false, false ],
+      "essanceAmount": [ 0, 0, 0, 0 ]
+
+    },
+    {
+      "name": "Bubba",
+      "skin": "NeutralBubba",
+      "prompt": [
+        "Hey, I'm Bubba. got any food you can give me?",
+        "I peed on your carpet. Is that gonna be a problem?",
+        "Rub my belly!",
+        "Am I the cutest doggy in all the land?"
+      ],
+      "yes": [
+        "Great.",
+        "Well, I already did it so.",
+        "I think we've reached an understanding.",
+        "I know, I just wanted to hear you say it."
+      ],
+      "no": [
+        "Then I shall take my business elsewhere.",
+        "Glad you understand.",
+        "Terrible, viscous, evillllll HOOMAN!",
+        "LIAR!"
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        6,
+        15,
+        5,
+        20
+      ],
+      "badPoint": [
+        6,
+        15,
+        5,
+        20
+      ],
+      "coins": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "coinGiveOrTake": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "point": [ true, false, true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 3,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false, false, false ],
+      "essanceAmount": [ 0, 0, 0, 0 ]
+
+    },
+    {
+      "name": "Gala",
+      "skin": "Gala",
+      "prompt": [
+        "Hello, thank you for taking the time to speak with me, future keeper. I'm Gala the last forest guardian. I've been noticing that all the trees are dying... I'm not blaming you of course but I was hoping you could make a potion to cure them. I have 35 gold coins on me, I forgot to stop by the Tree Treasury on my way here.",
+        "Hello, I've come to talk to you about a very urgent matter. Many of the forest animals have become separated from their families, due to the recent disasters the world has endured. Do you have any guiding spells you could give me so I can help them get home? I have 30 gold coins on me."
+      ],
+      "yes": [
+        "Thank you, the trees will thrive once more!",
+        "Thank you, this will bring relief to the world's forest animals."
+      ],
+      "no": [
+        "Trees are very important for the ecosystems of the world you know. You might wanna try harder to keep them around",
+        "The animals will be so disappointed."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        35,
+        30
+      ],
+      "badPoint": [
+        35,
+        30
+      ],
+      "coins": [
+        35,
+        30
+      ],
+      "coinGiveOrTake": [
+        true,
+        true
+      ],
+      "point": [ true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ true, true ],
+      "essanceAmount": [ 10, 10 ]
+    },
+    {
+      "name": "Grumblegunk",
+      "skin": "Grumble",
+      "prompt": [
+        "Hello, my name is Grumble Gunk. I'm looking for some assistance with enchanting my weapons. I'll pay you 50 gold pieces.",
+        "Kid I need your help! This terrible witch cursed me and now my voice sounds like this... like a girl! I can't be a manly Viking with a girl's voice! Please help me I'll pay you 100 gold pieces!",
+        "Hey kid. I heard you can tell fortunes. Could you share your predictions about my future quests? I'll pay you 50 gold pieces.",
+        "Hey kid. Can I buy some elixirs from you to increase my strength? I'll be going on an adventure soon and want to make sure I'm ready for anything! I can give you 10 gold coins for them."
+      ],
+      "yes": [
+        "Thanks for the help",
+        "Thank you, You're a life saver",
+        "How interesting. Thanks for the heads up.",
+        "Thank you!"
+      ],
+      "no": [
+        "I guess I should look for someone else then.",
+        "Fine! I'll find someone else.'",
+        "Maybe it's better not to know?",
+        "You're right, what's an adventure without some risks!"
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        20,
+        10,
+        5,
+        4
+      ],
+      "coinGiveOrTake": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "badPoint": [
+        20,
+        10,
+        5,
+        4
+      ],
+      "coins": [
+        50,
+        100,
+        50,
+        10
+      ],
+      "point": [ true, true, true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 3,
+      "repetitive": true,
+      "specialCharacter": false,
+      "takeEssance": [ true, true, true, true ],
+      "essanceAmount": [ 10, 10, 10, 10 ]
+    },
+    {
+      "name": "Fizzy Witch",
+      "skin": "Frizzy",
+      "prompt": [
+        "Master of all magic! Finally, I've been graced with your presence. I'm Fizzy Witch. According to some prophecy, I am destined to work for you...forever. As we are both magic wielders, and you are next in line to manage the world, I could be your assistant, receptionist, or anything you want me to be.",
+        "I am here to assist you, master of magic. Could I get you a cup of tea, or maybe a grilled cheese sandWITCH?! Get it?"
+      ],
+      "yes": [
+        "How grand, I can't wait to always be by your side, always.",
+        "Yay, I'm helpful and you think I'm funny!"
+      ],
+      "no": [
+        "The prophecy will happen whether you like it or not!",
+        "You cannot escape the prophecy!"
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        1,
+        1
+      ],
+      "badPoint": [
+        1,
+        1
+      ],
+      "coins": [
+        0,
+        0
+      ],
+      "coinGiveOrTake": [
+        true,
+        true
+      ],
+      "point": [ true, true ],
+      "oneLiner": true,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 10, 10 ]
+    },
+    {
+      "name": "Mossy",
+      "skin": "Mossy",
+      "prompt": [
+        "Hello, my name is Mossy. I am in search of some knowledge of rare herbs. Could you provide me with a book of such things for 5 gold coins?",
+        "Nature is no longer in balance. There have been many natural disasters caused by magical forces. This has disrupted the balance of nature. For 100 gold coins, I can return this world to what it should be.",
+        "I need some protection spells for my sacred groves. Can you provide me with such a thing for 5 gold coins?",
+        "I need some protection spells for magical creatures that are going extinct could you provide me with such a thing for 5 gold coins?"
+      ],
+      "yes": [
+        "Thank you.",
+        "Good.",
+        "Thank you.",
+        "Thank you."
+      ],
+      "no": [
+        "Interesting.",
+        "Interesting.",
+        "Interesting.",
+        "Interesting."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        5,
+        50,
+        5,
+        5
+      ],
+      "badPoint": [
+        5,
+        50,
+        5,
+        5
+      ],
+      "coins": [
+        5,
+        100,
+        5,
+        5
+      ],
+      "coinGiveOrTake": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "point": [ true, true, true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 3,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ true, false, true, true ],
+      "essanceAmount": [ 10, 0, 10, 10 ]
+    },
+    {
+      "name": "Grandpa Charlie",
+      "skin": "charlie",
+      "prompt": [
+        "Hey, kiddo! Just checking up on you, how's the keeping going?",
+        "I brought you some coins Kiddo."
+      ],
+      "yes": [
+        "That's good sweetie, Grandpa loves you.",
+        "Only for my special granddaughter."
+      ],
+      "no": [
+        "I'm sure it'll get better, Grandpa loves you.",
+        "Oh, okay then kiddo. Grandpa loves you."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        1,
+        5
+      ],
+      "badPoint": [
+        1,
+        5
+      ],
+      "coins": [
+        0,
+        100
+      ],
+      "coinGiveOrTake": [
+        true,
+        true
+      ],
+      "point": [ true, true ],
+      "oneLiner": true,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 0, 0 ]
+    },
+    {
+      "name": "Queen Iris",
+      "skin": "Princess Iris",
+      "prompt": [
+        "Greetings little one, I am Iris, Queen of the Fairies. When the time comes for seasons to change, all of my fairies assist with the transition. Unfortunately, recently, many of my fairies have gone missing.",
+        "Greetings little one. I managed to find some of my fairies but I'm still missing so many. Could you give me an enchanted compass that leads to my fairy friends? I could give you 25 coins for it. I'm sure you have something like that in this lovely shop.",
+        "Greetings little one. Many of our fairies have been found but there are still some out there. I thought if you enchanted a beacon it would make it easier for them to find their way back home. I could give you 30 coins for your help."
+      ],
+      "promptTwo": [
+        "Without the help of all my fairies the season wont change, which would devastate the world. Could you provide me with a location spell to help me find my lost fairies for 40 gold coins?",
+        ""
+      ],
+      "yes": [
+        "Thank you little one, the world will be in your debt.",
+        "Thank you little one, your help is greatly appreciated.",
+        "Thank you little one, you have helped us so much."
+      ],
+      "no": [
+        "I don't think you understand how serious this situation is.",
+        "Hmmm, seems like you're in a bit of a mood. I'll come back later.",
+        "Why won't you help us?"
+      ],
+      "place": 0,
+      "secondPrompt": [
+        true,
+        false,
+        false
+      ],
+      "goodPoint": [
+        20,
+        15,
+        20
+      ],
+      "badPoint": [
+        20,
+        15,
+        20
+      ],
+      "coins": [
+        40,
+        25,
+        30
+      ],
+      "coinGiveOrTake": [
+        true,
+        true,
+        true
+      ],
+      "point": [ true, true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 2,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ true, true, true ],
+      "essanceAmount": [ 10, 10, 10 ]
+    },
+    {
+      "name": "Brook",
+      "skin": "Brook",
+      "prompt": [
+        "Hey kid, I'm Brook the magical, wondrous, most spectacular, and highly educated book. I've been practicing my magical abilities and was hoping you would let me give it a whirl, on you. Of course, it's perfectly mostly safe and could benefit you.",
+        "Hey kid it's Brook the kind-hearted, extraordinary, highly skilled, talking book. Could I try another spell on you? Pretty please..."
+      ],
+      "yes": [
+        "Yay it worked!",
+        "Phew, that's a relief."
+      ],
+      "no": [
+        "Whoops that wasn't supposed to happen.",
+        "I'll just leave now."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        2,
+        2
+      ],
+      "badPoint": [
+        2,
+        2
+      ],
+      "coins": [
+        200,
+        200
+      ],
+      "coinGiveOrTake": [
+        true,
+        true
+      ],
+      "point": [ true, true ],
+      "oneLiner": true,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 0, 0 ]
+    },
+    {
+      "name": "The Shadow Wraith",
+      "skin": "Wraith",
+      "prompt": [
+        "Hey keeper kid. I'm supposed to be a scary wraith but all the other wraiths say I'm not scary enough to be a part of their exclusive club. They're called the Phantom Frights. Could you maybe, if you're not too busy, make me a little scarier? I could pay you 10 coins.",
+        "Hey keeper kid. I don't think whatever you did worked cause, they still won't let me in. Could you maybe try again?",
+        "So, it didn't work... again. Did you even do anything?"
+      ],
+      "yes": [
+        "They're sure to let me in now! Thanks, keeper kid.",
+        "Yesss, I'm feeling spookyyy.",
+        "So even magic can't make me scary enough, I'm hopeless."
+      ],
+      "no": [
+        "Am I destined to be alone forever?",
+        "I'm sure you could do it if you really wanted to.",
+        "I see, so you wanted to show me that I'm perfect just the way I am, and you wanted me to see that for myself. Thanks, keeper kid."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        5,
+        5,
+        5
+      ],
+      "badPoint": [
+        5,
+        5,
+        5
+      ],
+      "coins": [
+        10,
+        10,
+        10
+      ],
+      "coinGiveOrTake": [
+        true,
+        true,
+        true
+      ],
+      "point": [ true, true, false ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 2,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ true, true, false ],
+      "essanceAmount": [ 10, 10, 0 ]
+    },
+    {
+      "name": "Zara",
+      "skin": "Zara",
+      "prompt": [
+        "Hello dear, my name is Zara. I'm looking for some charms to perform a harmless little ritual. Got any here for 5 coins?",
+        "Hello dear, I'm in the market for a spell. One that could transform say a man into a pig. Got one? I could give you 10 coins for it.",
+        "Hello dear, I was just thinking about how much fun it would be to cast a spell on all the clocks the world to make them all display the wrong time, making everyone always late! You wouldn't happen to have something like that for say 10 coins?"
+      ],
+      "yes": [
+        "Thanks, deary.",
+        "You have a deal!.",
+        "Oh, how exciting! Thanks, deary."
+      ],
+      "no": [
+        "Awe, bummer.",
+        "Awe bummer.",
+        "Awe bummer."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        10,
+        10,
+        15
+      ],
+      "badPoint": [
+        10,
+        10,
+        15
+      ],
+      "coins": [
+        5,
+        10,
+        10
+      ],
+      "coinGiveOrTake": [
+        true,
+        true,
+        true
+      ],
+      "point": [ false, false, false ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 2,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ true, true, true ],
+      "essanceAmount": [ 10, 10, 10 ]
+    },
+    {
+      "name": "Rix the Rogue",
+      "skin": "Rix",
+      "prompt": [
+        "Hey, kid, name's Rix. I'm looking for invisibility potions, for completely honorable reasons... I'll give you 20 coins for them.",
+        "Hey kid, I need some new enchanted lock-picking tools, for completely honorable reasons. I'll give you 30 coins"
+      ],
+      "yes": [
+        "Great these will work nicely.",
+        "These tools were just what I needed to... never mind."
+      ],
+      "no": [
+        "Whatever.",
+        "Whatever."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        5,
+        5
+      ],
+      "badPoint": [
+        5,
+        5
+      ],
+      "coins": [
+        20,
+        30
+      ],
+      "coinGiveOrTake": [
+        true,
+        true
+      ],
+      "point": [ false, false ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ true, true ],
+      "essanceAmount": [ 10, 10 ]
+    },
+    {
+      "name": "Wendel",
+      "skin": "Wendle",
+      "prompt": [
+        "Hello, my name's Wendel. I'm most known for my construction and handy work, I don't know if you've heard of me. Some people were thinking about moving into your magical realm and were hoping you would approve of having neighbors. No one wants to be on your bad side.",
+        "Hey your mailbox is looking a little sad, and your neighbors are complaining about it. I could spruce it up for you... for 10 coins.",
+        "Hey your grass is getting a little long out there and your neighbors are complaining about it want me to mow it for you... for 10 coins.",
+        "Hey your chimney has been emitting this green sort of smoke and it doesn't give the neighborhood a good look. I could fix that for you, for 10 coins."
+      ],
+      "yes": [
+        "Great I'll get to work then.",
+        "Great I'll get to work.",
+        "Great I'll get to work.",
+        "Great I'll get to work."
+      ],
+      "no": [
+        "Well, I'll let them know but they're not gonna be happy about it.",
+        "Guess you don't care about how you come across.",
+        "Guess you don't care about how you come across.",
+        "Guess you don't care about how you come across."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "badPoint": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "coins": [
+        0,
+        10,
+        10,
+        10
+      ],
+      "coinGiveOrTake": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "point": [ true, true, true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 3,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false, false, false ],
+      "essanceAmount": [ 0, 0, 0, 0 ]
+    },
+    {
+      "name": "Bobba",
+      "skin": "BadBubba",
+      "prompt": [
+        "Hey kid, name's Bobba, Bob for short. I've got a pretty cool famine catastrophe stirring up in my belly. I could unleash it on the world for 50 gold coins. It could cause a lot of mischief... you interested? ",
+        "Dude you will not believe what I've got up my sleeve this time. If I stomp my paw just so I can unleash a mighty earth quake, for 100 gold coins of course. This could be quite entertaining... you interested?",
+        "You're gonna love this. When I ferociously wag my tail, a vicious tornado wreaks havoc. Doesn't that sound delightful? I would only need 150 gold coins, A dogs gotta eat.",
+        "I've been working on my fierce barking abilities and have found that I can cause devastating phantom storms. For 200 gold coins I could unleash my ferocious bark. Would you be interested in something like that?"
+      ],
+      "yes": [
+        "How exciting.",
+        "I knew I liked you.",
+        "You won't be disappointed.",
+        "Dude, I just got chills..."
+      ],
+      "no": [
+        "You're boring.",
+        "Ugh, fine.",
+        "Come on dude.",
+        "Are you ever gonna choose the fun option?"
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        20,
+        20,
+        20,
+        60
+      ],
+      "badPoint": [
+        15,
+        20,
+        20,
+        60
+      ],
+      "coins": [
+        50,
+        100,
+        150,
+        200
+      ],
+      "coinGiveOrTake": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "point": [ false, false, false, false ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 3,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false, false, false ],
+      "essanceAmount": [ 0, 0, 0, 0 ]
+
+    },
+    {
+      "name": "Bibba",
+      "skin": "AngleBubba",
+      "prompt": [
+        "Hey there little one, my name is Bibba giver of miracles. My vomit has the ability to replenish the nutrients in the earth. This would result in a period of plenty! for 50 gold coins, I could work my magic.",
+        "Hello small child. I want to share some devastating information with you. A plague has been unleashed across the world and many are dying. I have the ability to cure all of these people with the touch of my snooter for only 100 gold coins. Are you interested?",
+        "Hey there young one. Currently, there are many countries at war. With the power of my licks, I can offer worldwide peace and an end to war. I would only need 150 gold coins.",
+        "Hey there small child. There are currently many natural disasters occurring all over the world, how this is happened I do not know. My unbearable cuteness has the power to reverse all of these natural disasters. I would be willing to accomplish this daunting task for 200 shiny gold coins. Are you interested?"
+      ],
+      "yes": [
+        "You are very wise young one.",
+        "A wise choice.",
+        "You are a true hero.",
+        "You are making the right choice. The world will be grateful."
+      ],
+      "no": [
+        "What's wrong with you?",
+        "You are truly evil!",
+        "How disappointing...",
+        "I can't believe the world will be left in your hands!"
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        20,
+        20,
+        20,
+        60
+      ],
+      "badPoint": [
+        20,
+        20,
+        20,
+        60
+      ],
+      "coins": [
+        50,
+        100,
+        150,
+        200
+      ],
+      "coinGiveOrTake": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "point": [ true, true, true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 3,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false, false, false ],
+      "essanceAmount": [ 0, 0, 0, 0 ]
+
+    },
+    {
+      "name": "Waddles",
+      "skin": "Duck",
+      "prompt": [
+        "Quack, I'm waddles. I am out in the world looking to make a difference. I heard you're also trying to make the world a better place. If you give me 10 gold pieces, I could maybe help you out there quack. What do you say?",
+        "Ready to make the world a better place all I need is a couple of gold pieces, say maybe 10? quack."
+      ],
+      "yes": [
+        "Quack, I'll get to work then.",
+        "Shiny quack"
+      ],
+      "no": [
+        "Quack, I'll be on my way then.",
+        "Maybe next time? quack."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        5,
+        5
+      ],
+      "badPoint": [
+        5,
+        5
+      ],
+      "coins": [
+        10,
+        10
+      ],
+      "coinGiveOrTake": [
+        false,
+        false
+      ],
+      "point": [ true, true ],
+      "oneLiner": true,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 0, 0 ]
+    },
+
+    {
+      "name": "Boogerboo",
+      "skin": "boogerboo",
+      "prompt": [
+        "Hello there. I'm Booger Boo. The Largest booger anyone's ever seen. I have an appetite for human flesh. Unexpected, I know. Are you in the market for some chaos? Just give me 50 gold coins.",
+        "I'm back. Are you ready for me to unleash my snot on the world? Just need 50 gold coins."
+      ],
+      "yes": [
+        "I shall unleash my snot on the world!",
+        "I can't wait to see my lovely globs of snot everywhere!"
+      ],
+      "no": [
+        "Don't worry, someone else will be.",
+        "I'll be back."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        20,
+        20
+      ],
+      "badPoint": [
+        20,
+        20
+      ],
+      "coins": [
+        50,
+        50
+      ],
+      "coinGiveOrTake": [
+        false,
+        false
+      ],
+      "point": [ false, false ],
+      "oneLiner": true,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 0, 0 ]
+    },
+    {
+      "name": "Snuggles",
+      "skin": "snuggles",
+      "prompt": [
+        "I'm Snuggles. Have any people you want to seek revenge on I'm your feline. Just say the word, and loosen your purse strings, and I'm off. No names needed... only 50 gold coins",
+        "Have any people you wish to see suffer a painful existence? I would only need 50 gold coins."
+      ],
+      "yes": [
+        "Pleasure doing business with ya.",
+        "Puuurfect..."
+      ],
+      "no": [
+        "Goody two shoes.",
+        "I can be patient... but only for so long."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        15,
+        20
+      ],
+      "badPoint": [
+        15,
+        20
+      ],
+      "coins": [
+        50,
+        50
+      ],
+      "coinGiveOrTake": [
+        false,
+        false
+      ],
+      "point": [ false, false ],
+      "oneLiner": true,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 0, 0 ]
+    },
+    {
+      "name": "Crispy the Crisper",
+      "skin": "Crispy",
+      "prompt": [
+        "Hello there small hero! I am Crispy the Crisper and don't you forget it! I'm looking for healing potions for a future battle with Prince Pumpernickel. Got any here? I could pay you 30 gold coins.",
+        "Young hero, there is an evil slimy booger on the loose. If you give me 40 gold coins, I will extinguish this booger and save the world!",
+        "Young hero, sir puny brain has escaped from his prison. If you give me 50 gold coins, I will put him back in his cell and save the world once again. ",
+        "Young hero, Dr. Doodlebug is back at his strange experiments. If you give me 50 gold coins, I will retrieve him and put him in a cell. What do you say?"
+      ],
+      "yes": [
+        "Thanks!",
+        "You are a true hero!",
+        "Thank you for your assistance young hero.",
+        "Off to save the world... once again!"
+      ],
+      "no": [
+        "You should restock then, terrible for business...",
+        "I see that you have chosen a side. Very well then.",
+        "Children are so hard to work with.",
+        "You are no hero..."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        10,
+        15,
+        15,
+        10
+      ],
+      "badPoint": [
+        10,
+        15,
+        15,
+        10
+      ],
+      "coins": [
+        30,
+        40,
+        50,
+        50
+      ],
+      "coinGiveOrTake": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "point": [ true, true, true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 3,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ true, false, false, false ],
+      "essanceAmount": [ 10, 0, 0, 0 ]
+    },
+    {
+      "name": "Wonder Whiskers",
+      "skin": "WonderWiskers",
+      "prompt": [
+        "Never fear, Wonder Whiskers is here! Do you like my mustache?!",
+        "Never fear, Wonder Whiskers is here! Need any saving? I can fabulously rescue any poor souls that have been trapped by the recent disasters mysteriously erupting all over the world! But it'll cost ya, hmmmm let's say 50 gold pieces."
+      ],
+      "yes": [
+        "I know, it really is fabulous.",
+        "Off I go!"
+      ],
+      "no": [
+        "Well of course you don't! You have no sense of FASION!'",
+        "How rude!"
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        10,
+        10
+      ],
+      "badPoint": [
+        10,
+        10
+      ],
+      "coins": [
+        1,
+        50
+      ],
+      "coinGiveOrTake": [
+        true,
+        false
+      ],
+      "point": [ true, true ],
+      "oneLiner": true,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 0, 0 ]
+    },
+    {
+      "name": "Dr. Doodlebug",
+      "skin": "DoctrDoodle",
+      "prompt": [
+        "My name's Doctor DudleBug. I'm researching the magical properties of emotions for my future weapon- I mean, just for fun. Do you have a book on the subject? I could give you 10 coins for it.",
+        "I have been trying to combine magic with scientific principles to create many wonderful inventions that could cause mass chaos, or not. Would you like to invest 100 coins in my tinkering?",
+        "I am experimenting with interdimensional travel to exploit the resources of less advanced civilizat- I mean, for fun! I was hoping to receive permission and funding from you to continue with my research. 120 coins should suffice.",
+        "One of my experiments has given me an unexpected result... the result being a creature I have decided to call a Glimmerglob. I would like to learn more about this creature but I require some magical assistance to do so, as it is not behaving very well. I could give you 60 coins for the help."
+      ],
+      "yes": [
+        "Thank you for the help!",
+        "Yes, more money for wonderful experiments.",
+        "A true patron of science!",
+        "Oh, thank you! You're a smart kid."
+      ],
+      "no": [
+        "That's odd, you would think this would be the perfect place to find one of those.",
+        "Is money tight right now?",
+        "Not the answer I wanted to hear.",
+        "Maybe I'll release it into the wild then!"
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        5,
+        50,
+        60,
+        15
+      ],
+      "badPoint": [
+        5,
+        50,
+        60,
+        15
+      ],
+      "coins": [
+        10,
+        100,
+        120,
+        60
+      ],
+      "coinGiveOrTake": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "point": [ false, false, false, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 3,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ true, false, false, true ],
+      "essanceAmount": [ 10, 0, 0, 10 ]
+    },
+    {
+      "name": "Punybrain",
+      "skin": "Dctr",
+      "prompt": [
+        "Ollo. Aren't you a cute sack of bones. I am the legendary, Sir Puny Brain. I am currently working on creating the deadliest speyayder in the world! Would you like to give me some funds to invest in my success? Maybe 50 coins?",
+        "Ollo. I am in the middle of the next greatest laser weapon. It could have the ability to wipe out a whole planet. Of course, this is a rather expensive toy and would require more money than I currently possess to get it up and running, probably around 200 coins. I will grant you access to it to use once complete.",
+        "The weapon has been complete. Would you like to use it now? The moon could be a good place to start.",
+        "The laser is up and running, ready to use it?"
+      ],
+      "yes": [
+        "How wonderfully Evil...",
+        "I thought you might.",
+        "I will get right on that then. It will need to cool down for a little before I use it again.",
+        "Great! The moon shall be destroyed momentarily."
+      ],
+      "no": [
+        "Another time then.",
+        "You're missing out!",
+        "Fine, I'll come back later. But I won't be happy about it.",
+        "Whyyyy?!"
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        25,
+        50,
+        30,
+        30
+      ],
+      "badPoint": [
+        25,
+        50,
+        30,
+        30
+      ],
+      "coins": [
+        50,
+        200,
+        0,
+        0
+      ],
+      "coinGiveOrTake": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "point": [ false, false, false, false ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 3,
+      "repetitive": false,
+      "saidYes": false,
+      "specialCharacter": true,
+      "takeEssance": [ false, false, false, false ],
+      "essanceAmount": [ 0, 0, 0, 0 ]
+    },
+
+    {
+      "name": "Harmony",
+      "skin": "Harmony",
+      "prompt": [
+        "Hello, my name is Harmony and I'm a bard. I seem to be rather low on funds at the moment and was wondering if you could spare some gold coins. In return, I will write a song about you, to honor your kindness.",
+        "I seem to be rather low on funds at the moment and was wondering if you could give me some gold coins. In return, I will make a song about you, to honor you.",
+        "Oh, little one with magic in your hands, Spells woven in the golden sands. Whispers of power in your every word, A heart of wonder, where dreams are stirred... Did you like it?",
+        " I've come up with a verse! In a village quaint and fair, Lived a child with unkempt hair. Eyes like stars, so bright and bold, With secrets of magic yet untold. Did you like it?",
+        "I've finished the song! With a wave and a flick, the world did sway, Stars danced at the dawn of day. Friends in awe, laughter in the air, A child with magic, beyond compare. Did you like it?"
+      ],
+      "yes": [
+        "Thank you, I will be back with your song!",
+        "Thank you! I will be back with lovely music!",
+        "I'm so glad, I'll keep working on it",
+        "I'm so glad, I'll keep working on it",
+        "I’m so glad. A happy day indeed!"
+      ],
+      "no": [
+        "Alrighty then.",
+        "Alrighty then",
+        "Well...I did my best but I'll keep working on it.",
+        "Well... I did my best but I'll keep working on it.",
+        "I'm sorry then. I have failed you..."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        10,
+        5,
+        10,
+        5,
+        5
+      ],
+      "badPoint": [
+        10,
+        5,
+        10,
+        5,
+        5
+      ],
+      "coins": [
+        5,
+        5,
+        0,
+        0,
+        0
+      ],
+      "coinGiveOrTake": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "point": [ true, true, true, true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 4,
+      "repetitive": false,
+      "start": true,
+      "specialCharacter": false,
+      "takeEssance": [ false, false, false, false, false ],
+      "essanceAmount": [ 0, 0, 0, 0, 0 ]
+
+    },
+    {
+      "name": "Fletch",
+      "skin": "Fletch",
+      "prompt": [
+        "I'm fletch, a wandering protector. I protect those who need it most. I heard you've made some enemies little leaf, I can protect you, your friends, and your little shop from them for a little while. I require 20 gold coins for my services.",
+        "Need any protecting little leaf? I require 20 gold coins for my services."
+      ],
+      "yes": [
+        "I'll start immediately.",
+        "You have my bow."
+      ],
+      "no": [
+        "I wish you luck then.",
+        "I wish you luck then."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        5,
+        5
+      ],
+      "badPoint": [
+        5,
+        5
+      ],
+      "coins": [
+        20,
+        20
+      ],
+      "coinGiveOrTake": [
+        false,
+        false
+      ],
+      "point": [ true, true ],
+      "oneLiner": true,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 0, 0 ]
+    },
+    {
+      "name": "Charlotte",
+      "skin": "Charlotte",
+      "prompt": [
+        "Hey, Keeper! My name's Charlotte and I'm the Ultimate Creator! When the parts of the world are destroyed it's my job to fix them. If I had 50 gold coins, I could start with fixing the polluted oceans!",
+        "Hey, all the plants are dying, like everywhere. If I had 50 gold coins, I could fix them!",
+        "Hey, it's been really cloudy and dreary outside. If I had 50 gold coins, I could fix that!",
+        "Hey, what if I made the world more colorful in general? I could make the sky more purple and rainbows everywhere. Don't you think that would look great! If I had 100 gold coins, I could fix that."
+
+      ],
+      "yes": [
+        "Let's get to fixing!",
+        "Let's get to fixing!",
+        "Let's get to fixing!",
+        "Let's get to fixing!"
+      ],
+      "no": [
+        "Girl! What are you doing?",
+        "Girl! What are you doing?",
+        "Girl! What are you doing?",
+        "Girl! What are you doing?"
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        15,
+        15,
+        15,
+        50
+      ],
+      "badPoint": [
+        15,
+        15,
+        15,
+        50
+      ],
+      "coins": [
+        50,
+        50,
+        50,
+        100
+      ],
+      "coinGiveOrTake": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "point": [ true, true, true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 3,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false, false, false ],
+      "essanceAmount": [ 0, 0, 0, 0 ]
+    },
+
+    {
+      "name": "Professor Thistle",
+      "skin": "Professor Thistle",
+      "prompt": [
+        "Hello I'm Professor Thistle and I was wondering if you have any books on magical creatures kicking around? I want to educate my students on this magical realm and thought that would be a good place to start. I could give you 30 coins for whatever you've got.",
+        "Hello, I'm back I had an inquiry about a magical creature I read about. If a Chrono-Mimic can change its color and form to reflect its surroundings, could it also change into a convincing person?"
+      ],
+      "yes": [
+        "Thank you, these will be great for my students.",
+        "How intriguing but also terrifying."
+      ],
+      "no": [
+        "That's okay, maybe I should take them on a field trip here instead.",
+        "Well, that's a relief but also disappointing."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        10,
+        2
+      ],
+      "badPoint": [
+        10,
+        2
+      ],
+      "coins": [
+        30,
+        0
+      ],
+      "coinGiveOrTake": [
+        true,
+        false
+      ],
+      "point": [ true, false ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ true, false ],
+      "essanceAmount": [ 10, 0 ]
+    },
+    {
+      "name": "Glimmer",
+      "skin": "Glimmer",
+      "prompt": [
+        "Greetings! My name is Glimmer and I appear to be very, very lost. I was hoping you could give me directions for how to get home. I only have one coin with me but I would be happy to give it to you.",
+        "Greetings! I must have gotten turned around and ended up back here. Do you think I should go left this time? The road leads to a dark forest but I'm sure it's perfectly safe."
+      ],
+      "yes": [
+        "Thank you! So I'll just go this way then.",
+        "Left it is then!"
+      ],
+      "no": [
+        "Oh, okay then.",
+        "Right it is then!"
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        5,
+        5
+      ],
+      "badPoint": [
+        5,
+        5
+      ],
+      "coins": [
+        1,
+        0
+      ],
+      "coinGiveOrTake": [
+        true,
+        false
+      ],
+      "point": [ true, false ],
+      "oneLiner": true,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 0, 0 ]
+    },
+    {
+      "name": "Lord Malvorn",
+      "skin": "Lord Malvorn",
+      "prompt": [
+        "What a quaint little shop. So, you're supposed to be the new keeper hm? What an interesting thought. I'm Lord Malvorn and I think the world needs to be put in its place. The people who live here have become entitled and arrogant. Are you with me?",
+        "I think the world could do with fewer people. What do you think?"
+      ],
+      "yes": [
+        "Excellent...",
+        "So, we are in agreement then, I shall get to work."
+      ],
+      "no": [
+        "Have you seen the world lately?",
+        "You are really getting on my nerves."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        20,
+        20
+      ],
+      "badPoint": [
+        20,
+        20
+      ],
+      "coins": [
+        0,
+        0
+      ],
+      "coinGiveOrTake": [
+        false,
+        false
+      ],
+      "point": [ false, false ],
+      "oneLiner": true,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 0, 0 ]
+    },
+
+    {
+      "name": "Grognak",
+      "skin": "Grognak",
+      "prompt": [
+        "Hi, I Grognak. Be Grognak's friend?",
+        "Do keeper like Grognak?"
+      ],
+      "yes": [
+        "Grgnak and friend keeper!",
+        "Grognak and keeper are best friends!"
+      ],
+      "no": [
+        "Awe...",
+        "Awe..."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        5,
+        5
+      ],
+      "badPoint": [
+        5,
+        5
+      ],
+      "coins": [
+        0,
+        0
+      ],
+      "coinGiveOrTake": [
+        false,
+        false
+      ],
+      "point": [ true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 0, 0 ]
+    },
+    {
+      "name": "Morgath",
+      "skin": "Morgath",
+      "prompt": [
+        "I am Morgath. I was once a mighty knight but fell at the hands of Lord Malvorn. He revived me to do his bidding and now my soul is bound to his will. He wishes for magical herbs for his evil concoctions. I offer you 10 coins for them.",
+        "Please keeper free me from Lord Malvorn. I managed to escaped him but he will find me soon as long as my soul is bound to him."
+      ],
+      "yes": [
+        "Thank you.",
+        "Thank you, I will not let him find out that it was you who freed me."
+      ],
+      "no": [
+        "Lord Malvorn will not be happy.",
+        "I will remember this."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        5,
+        50
+      ],
+      "badPoint": [
+        5,
+        50
+      ],
+      "coins": [
+        10,
+        0
+      ],
+      "coinGiveOrTake": [
+        true,
+        false
+      ],
+      "point": [ false, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ true, false ],
+      "essanceAmount": [ 10, 0 ]
+    },
+    {
+      "name": "Talia",
+      "skin": "Talia",
+      "prompt": [
+        "Hello, my name is Talia and I have traveled far to meet you. I am not from this world and wish to observe it. Do you think this world has changed for the better?",
+        "Some say that life needs the balance of both good and evil to thrive. Do you think that is true? "
+      ],
+      "yes": [
+        "It is important to reflect once on one's self every so often.",
+        "An intriguing thought is it not."
+      ],
+      "no": [
+        "Change starts with one's self.",
+        "Your mind has been made up then?"
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        5,
+        20
+      ],
+      "badPoint": [
+        5,
+        20
+      ],
+      "coins": [
+        0,
+        0
+      ],
+      "coinGiveOrTake": [
+        false,
+        false
+      ],
+      "point": [ true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 0, 0 ]
+    },
+    {
+      "name": "Bram the Brave",
+      "skin": "Finn",
+      "prompt": [
+        "Hello there little dude! Some call me Bram the Brave others, Bram the Blunderer... I love to venture off on heroic quests and wander around our lovely world. Would you like me to report back to you on how it's looking? You don't have a good view from that desk of yours.",
+        "Ready for an adventure little dude?",
+        "Overall, the world's looking pretty normal, does that make you happy?",
+        "The world's looking crazy dude. There are rainbows and sparkles and weird-looking planets in the sky. Does that make you happy?",
+        "The world's pretty much gone. Most of it went up into flames. Does that make you happy."
+      ],
+      "yes": [
+        "Always seek adventure!",
+        "Always seek adventure!",
+        "Hey if you're happy, I'm happy.",
+        "Hey if you're happy, I'm happy.",
+        "Hey if you're happy, I'm happy."
+      ],
+      "no": [
+        "I shall seek adventure elsewhere then.",
+        "I shall seek adventure elsewhere then.",
+        "Well, that sucks, for you.",
+        "Well, that sucks, for you.",
+        "Well, that sucks, for you."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "goodPoint": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "badPoint": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "coins": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "coinGiveOrTake": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "point": [ true, true, true, true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 4,
+      "repetitive": false,
+      "specialCharacter": true,
+      "takeEssance": [ false, false, false, false, false ],
+      "essanceAmount": [ 0, 0, 0, 0, 0 ]
+    },
+
+    {
+      "name": "Eria",
+      "skin": "Eria",
+      "prompt": [
+        "Hi. I'm Eria, the god of conflict and revenge. Those who seek vengeance on others pray to me, should I answer their prayers?",
+        "Shall I answer the angry peoples' prayers?"
+      ],
+      "yes": [
+        "Those with hearts of ice shall have their requests fulfilled.",
+        "Those with hearts of ice shall have their requests fulfilled."
+      ],
+      "no": [
+        "The world shall rest easy tonight.",
+        "The world shall rest easy tonight."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        10,
+        10
+      ],
+      "badPoint": [
+        10,
+        10
+      ],
+      "coins": [
+        0,
+        0
+      ],
+      "coinGiveOrTake": [
+        false,
+        false
+      ],
+      "point": [ false, false ],
+      "oneLiner": true,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 0, 0 ]
+    },
+    {
+      "name": "Queen Vladara",
+      "skin": "Vladara",
+      "prompt": [
+        "I am Vladara, Queen of the vampires. My people and I wish to have some fun. Will you let us?",
+        "My vampires are getting antsy. Will you let us have some fun?"
+      ],
+      "yes": [
+        "Wonderful.",
+        "Wonderful."
+      ],
+      "no": [
+        "Awe, you're no fun.",
+        "Awe, you're no fun."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        15,
+        15
+      ],
+      "badPoint": [
+        15,
+        15
+      ],
+      "coins": [
+        0,
+        0
+      ],
+      "coinGiveOrTake": [
+        false,
+        false
+      ],
+      "point": [ false, false ],
+      "oneLiner": true,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 0, 0 ]
+    },
+    {
+      "name": "Finn",
+      "skin": "Bram",
+      "prompt": [
+        "Hello, my name is Finn. I was betrayed by a princess whom I saved and loved and now I feel... angry. I wish to seek revenge; do you have something that can dye one's hair green? I have 10 gold coins with me."
+
+      ],
+      "yes": [
+        "Don't tell a soul."
+      ],
+      "no": [
+        "I guess this is a potions shop, not a salon."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        5
+      ],
+      "badPoint": [
+        5
+      ],
+      "coins": [
+        10
+      ],
+      "coinGiveOrTake": [
+        true
+      ],
+      "point": [ false ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 0,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ true ],
+      "essanceAmount": [ 10 ]
+    },
+
+    {
+      "name": "The Goblin King",
+      "skin": "Jareth",
+      "prompt": [
+        "I'm Jareth, King of all the Goblins. I've stolen a baby from this family and his annoying sister is trying to save him. Do you have a spell I could use to make her forget about him? I could give you many riches, how about 20 coins?",
+        "You remind me of the babe... that I stole. Want to join my goblin family? Your name could be, Squeebles."
+      ],
+      "yes": [
+        "You are a true ally to the goblin king.",
+        "You are an official goblin, congratulations Squeebles!"
+      ],
+      "no": [
+        "Ugh, I don't wanna deal with that annoying girl anymore.",
+        "How could you refuse an offer like that?"
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        5,
+        1
+      ],
+      "badPoint": [
+        5,
+        1
+      ],
+      "coins": [
+        20,
+        0
+      ],
+      "coinGiveOrTake": [
+        true,
+        false
+      ],
+      "point": [ false, false ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ true, false ],
+      "essanceAmount": [ 10, 0 ]
+    },
+
+    {
+      "name": "Baron Von Shade",
+      "skin": "Baron Von Shade",
+      "prompt": [
+        "Hello there little lady. My name is Baron Von Shade. Do not mistake me for being a part of that savage Queen Vladaras' court as I am no such monster. I was hoping you would allow me to become part of your family here. I could fetch your mail and stoke the fire when you wish it.",
+        "Hello my little lady, would you care for a beverage?"
+      ],
+      "yes": [
+        "Excellent my little lady.",
+        "Tea is wonderful for the nerves, so I've heard"
+      ],
+      "no": [
+        "I understand and will take up no more of your time.",
+        "That's okay my little lady, perhaps another time?"
+      ],
+      "place": 0,
+      "secondPrompt": [
+        false,
+        false
+      ],
+      "goodPoint": [
+        5,
+        1
+      ],
+      "badPoint": [
+        10,
+        1
+      ],
+      "coins": [
+        0,
+        0
+      ],
+      "coinGiveOrTake": [
+        false,
+        false
+      ],
+      "point": [ true, true ],
+      "oneLiner": true,
+      "done": false,
+      "lineNumber": 1,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false ],
+      "essanceAmount": [ 0, 0 ]
+    },
+
+    {
+      "name": "Father Dear",
+      "skin": "fatherdear",
+      "prompt": [
+        "Hey kid, congrats on finishing your trial! I see you've chosen to be the world's middleman.",
+        "Hey kid, congrats on finishing your trial! I see you've chosen to be the world's saving grace.",
+        "Hey kid, congrats on finishing your trial! I see you've chosen to be the world's final judgment."
+      ],
+      "promptTwo": [
+        "It's a very wise path to follow as the world requires balance to be truly prosperous. I am proud of the choices you've made and I know you will make a wise and thoughtful keeper.",
+        "Although many may see this path as the right one it is important to remember that the world requires balance to thrive. You show potential of becoming the next good and kind keeper, but you still have much to learn.",
+        "It's an important role despite what others may think, but it requires balance or the world will fall. You show potential of becoming the next great and just keeper, but you still have much to learn."
+      ],
+      "yes": [
+        "I'm excited to see how your choices will shape the world.",
+        "I'm excited to see how your choices will shape the world.",
+        "I'm excited to see how your choices will shape the world."
+      ],
+      "no": [
+        "Modest as always, I'm excited to see how your choices will shape the world.",
+        "If you wish to become the next keeper you'll have to make some changes.",
+        "If you wish to become the next keeper you'll have to make some changes."
+      ],
+      "place": 0,
+      "secondPrompt": [
+        true,
+        true,
+        true
+      ],
+      "goodPoint": [
+        0,
+        0,
+        0
+      ],
+      "badPoint": [
+        0,
+        0,
+        0
+      ],
+      "coins": [
+        0,
+        0,
+        0
+      ],
+      "coinGiveOrTake": [
+        false,
+        false,
+        false
+      ],
+      "point": [ true, true, true ],
+      "oneLiner": false,
+      "done": false,
+      "lineNumber": 2,
+      "repetitive": false,
+      "specialCharacter": false,
+      "takeEssance": [ false, false, false, false ],
+      "essanceAmount": [ 0, 0, 0, 0 ]
+    }
+  ]
+}
