@@ -10,7 +10,6 @@ it is your job to decide whether or not to help them. Whatever choice you make w
 
 ## List of Releases
 
-0.1 PreRelease
-  The first pre-release of Dichotomy!
+<b>0.1 PreRelease:</b> The first pre-release of Dichotomy!
   * [`Windows`](https://github.com/DankiGames/Dichotomy/releases/download/v0.1-prerelease/Dichotomy-v0.1PreRelease.zip)
   * [`Live WebGL`](https://github.com/DankiGames/Dichotomy-WebGL/index.html)
